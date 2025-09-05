@@ -1,5 +1,5 @@
 # House_price_prediction
-🏡 House Price Prediction
+🏡 
 This project predicts house prices using machine learning regression models. It is inspired by the Kaggle House Prices – Advanced Regression Techniques competition.
 📌 Project Overview
 •	Preprocessed housing data (handling missing values, categorical encoding, scaling).
